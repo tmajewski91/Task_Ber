@@ -25,6 +25,11 @@ void makeFile(const string nameFile, const int x, const char value)
         }
 }
 
+int main(int argc, char * argv[]) {
+
+
+
 
 cout << "Program liczacy BER" << endl;
 
+}
