@@ -1,0 +1,9 @@
+Compare:file1.bin and file2.bin
+Bits: 800
+Bit difference: : 0
+Compare:file3.bin and file4.bin
+Bits: 800
+Bit difference: : 10
+Compare:file5.bin and file6.bin
+Bits: 3355443200
+Bit difference: : 838860800
